@@ -1,2 +1,2 @@
-Blog app challenge 
+Blog app challenge. 
 ==========================
